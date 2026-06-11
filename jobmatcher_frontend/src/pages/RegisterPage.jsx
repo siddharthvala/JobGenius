@@ -15,7 +15,7 @@ import {
   ShieldCheck,
 } from "lucide-react";
 import API from "../services/api";
-import logo from "../assets/images/Register_logo.png";
+import logo from "../assets/Images/Register_logo.png";
 
 export default function Register() {
   const navigate = useNavigate();
