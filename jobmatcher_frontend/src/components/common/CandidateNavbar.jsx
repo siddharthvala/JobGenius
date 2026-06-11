@@ -13,7 +13,7 @@ import {
   Settings,
   FileSearch,
 } from "lucide-react";
-import logo from "../../assets/Images/Horizontal_NOBG_Logo.png";
+import logo from "../../assets/Images/Horizontal_NoBG_Logo.png";
 import API from "../../services/api";
 import NotificationBell from "./NotificationBell";
 
