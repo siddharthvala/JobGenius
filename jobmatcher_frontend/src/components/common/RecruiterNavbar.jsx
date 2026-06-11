@@ -10,7 +10,7 @@ import {
   User,
   Settings,
 } from "lucide-react";
-import logo from "../../assets/Images/Horizontal_NOBG_Logo.png";
+import logo from "../../assets/Images/Horizontal_NoBG_Logo.png";
 import NotificationBell from "./NotificationBell";
 
 export default function RecruiterNavbar() {
