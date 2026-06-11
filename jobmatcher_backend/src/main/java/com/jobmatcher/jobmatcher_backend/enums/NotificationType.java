@@ -1,0 +1,11 @@
+package com.jobmatcher.jobmatcher_backend.enums;
+
+public enum NotificationType {
+    APPLICATION_APPLIED,
+    APPLICATION_SCREENING,
+    APPLICATION_INTERVIEW,
+    APPLICATION_ACCEPTED,
+    APPLICATION_REJECTED,
+    NEW_APPLICANT,
+    APPLICATION_WITHDRAWN
+}
